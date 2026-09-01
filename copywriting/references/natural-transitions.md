@@ -1,11 +1,11 @@
 # Natural Transitions
- 
+
 Transitional phrases to guide readers through your content. Good signposting improves readability, user engagement, and helps search engines understand content structure.
- 
+
 Adapted from: University of Manchester Academic Phrasebank (2023), Plain English Campaign, web content best practices
- 
+
 ---
- 
+
 ## Contents
 - Previewing Content Structure
 - Introducing a New Topic
@@ -25,10 +25,11 @@ Adapted from: University of Manchester Academic Phrasebank (2023), Plain English
 - Hedging Language
 - Best Practice Guidelines
 - Transitions to Avoid (AI Tells)
+
 ## Previewing Content Structure
- 
+
 Use to orient readers and set expectations:
- 
+
 - Here's what we'll cover...
 - This guide walks you through...
 - Below, you'll find...
@@ -36,42 +37,46 @@ Use to orient readers and set expectations:
 - First, let's look at...
 - Let's break this down step by step.
 - The sections below explain...
+
 ---
- 
+
 ## Introducing a New Topic
- 
+
 - When it comes to X,...
 - Regarding X,...
 - Speaking of X,...
 - Now let's talk about X.
 - Another key factor is...
 - X is worth exploring because...
+
 ---
- 
+
 ## Referring Back
- 
+
 Use to connect ideas and reinforce key points:
- 
+
 - As mentioned earlier,...
 - As we covered above,...
 - Remember when we discussed X?
 - Building on that point,...
 - Going back to X,...
 - Earlier, we explained that...
+
 ---
- 
+
 ## Moving Between Sections
- 
+
 - Now let's look at...
 - Next up:...
 - Moving on to...
 - With that covered, let's turn to...
 - Now that you understand X, here's Y.
 - That brings us to...
+
 ---
- 
+
 ## Indicating Addition
- 
+
 - Also,...
 - Plus,...
 - On top of that,...
@@ -80,12 +85,13 @@ Use to connect ideas and reinforce key points:
 - Beyond that,...
 - In addition,...
 - There's also...
+
 **Note:** Use "moreover" and "furthermore" sparingly. They can sound AI-generated when overused.
- 
+
 ---
- 
+
 ## Indicating Contrast
- 
+
 - However,...
 - But,...
 - That said,...
@@ -94,20 +100,22 @@ Use to connect ideas and reinforce key points:
 - Unlike X, Y...
 - While X is true, Y...
 - Despite this,...
+
 ---
- 
+
 ## Indicating Similarity
- 
+
 - Similarly,...
 - Likewise,...
 - In the same way,...
 - Just like X, Y also...
 - This mirrors...
 - The same applies to...
+
 ---
- 
+
 ## Indicating Cause and Effect
- 
+
 - So,...
 - This means...
 - As a result,...
@@ -116,10 +124,11 @@ Use to connect ideas and reinforce key points:
 - This leads to...
 - The outcome?...
 - Here's what happens:...
+
 ---
- 
+
 ## Giving Examples
- 
+
 - For example,...
 - For instance,...
 - Here's an example:...
@@ -129,10 +138,11 @@ Use to connect ideas and reinforce key points:
 - To illustrate,...
 - Like when...
 - Say you want to...
+
 ---
- 
+
 ## Emphasising Key Points
- 
+
 - Here's the key takeaway:...
 - The important thing is...
 - What matters most is...
@@ -140,32 +150,36 @@ Use to connect ideas and reinforce key points:
 - Pay attention to...
 - This is critical:...
 - The bottom line?...
+
 ---
- 
+
 ## Providing Evidence
- 
+
 Use when citing sources, data, or expert opinions:
- 
+
 ### Neutral attribution
 - According to [Source],...
 - [Source] reports that...
 - Research shows that...
 - Data from [Source] indicates...
 - A study by [Source] found...
+
 ### Expert quotes
 - As [Expert] puts it,...
 - [Expert] explains,...
 - In the words of [Expert],...
 - [Expert] notes that...
+
 ### Supporting claims
 - This is backed by...
 - Evidence suggests...
 - The numbers confirm...
 - This aligns with findings from...
+
 ---
- 
+
 ## Summarising Sections
- 
+
 - To recap,...
 - Here's the short version:...
 - In short,...
@@ -173,10 +187,11 @@ Use when citing sources, data, or expert opinions:
 - So what does this mean?...
 - Let's pull this together:...
 - Quick summary:...
+
 ---
- 
+
 ## Concluding Content
- 
+
 - Wrapping up,...
 - The bottom line is...
 - Here's what to do next:...
@@ -184,14 +199,15 @@ Use when citing sources, data, or expert opinions:
 - Final thoughts:...
 - Ready to get started?...
 - Now it's your turn.
+
 **Note:** Avoid "In conclusion" at the start of a paragraph. It's overused and signals AI writing.
- 
+
 ---
- 
+
 ## Question-Based Transitions
- 
+
 Useful for conversational tone and featured snippet optimization:
- 
+
 - So what does this mean for you?
 - But why does this matter?
 - How do you actually do this?
@@ -199,24 +215,26 @@ Useful for conversational tone and featured snippet optimization:
 - Sound complicated? It's not.
 - Wondering where to start?
 - Still not sure? Here's the breakdown.
+
 ---
- 
+
 ## List Introductions
- 
+
 For numbered lists and step-by-step content:
- 
+
 - Here's how to do it:
 - Follow these steps:
 - The process is straightforward:
 - Here's what you need to know:
 - Key things to consider:
 - The main factors are:
+
 ---
- 
+
 ## Hedging Language
- 
+
 For claims that need qualification or aren't absolute:
- 
+
 - may, might, could
 - tends to, generally
 - often, usually, typically
@@ -225,22 +243,24 @@ For claims that need qualification or aren't absolute:
 - evidence suggests
 - this can help
 - many experts believe
+
 ---
- 
+
 ## Best Practice Guidelines
- 
+
 1. **Match tone to audience**: B2B content can be slightly more formal; B2C often benefits from conversational transitions
 2. **Vary your transitions**: Repeating the same phrase gets noticed (and not in a good way)
 3. **Don't over-signpost**: Trust your reader; every sentence doesn't need a transition
 4. **Use for scannability**: Transitions at paragraph starts help skimmers navigate
 5. **Keep it natural**: Read aloud; if it sounds forced, simplify
 6. **Front-load key info**: Put the important word or phrase early in the transition
+
 ---
- 
+
 ## Transitions to Avoid (AI Tells)
- 
+
 These phrases are overused in AI-generated content:
- 
+
 - "That being said,..."
 - "It's worth noting that..."
 - "At its core,..."
@@ -248,5 +268,5 @@ These phrases are overused in AI-generated content:
 - "When it comes to the realm of..."
 - "This begs the question..."
 - "Let's delve into..."
+
 See the seo-audit skill's `references/ai-writing-detection.md` for a complete list of AI writing tells.
- 

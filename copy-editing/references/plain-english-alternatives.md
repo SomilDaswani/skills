@@ -1,11 +1,11 @@
 # Plain English Alternatives
- 
+
 Replace complex or pompous words with plain English alternatives.
- 
+
 Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Government Style Manual (2024), plainlanguage.gov
- 
+
 ---
- 
+
 ## Contents
 - A
 - B
@@ -23,8 +23,9 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 - T-U
 - V-Z
 - Phrases to Remove Entirely
+
 ## A
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | (an) absence of | no, none |
@@ -56,22 +57,22 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | at the present time | now |
 | attempt | try |
 | authorise | allow, let |
- 
+
 ---
- 
+
 ## B
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | belated | late |
 | beneficial | helpful, useful |
 | bestow | give |
 | by means of | by |
- 
+
 ---
- 
+
 ## C
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | calculate | work out |
@@ -94,11 +95,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | consult | ask, talk to |
 | consumption | use |
 | currently | now |
- 
+
 ---
- 
+
 ## D
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | deduct | take off |
@@ -119,11 +120,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | due to the fact that | because |
 | duration | time, length |
 | dwelling | home |
- 
+
 ---
- 
+
 ## E
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | economical | cheap, good value |
@@ -146,11 +147,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | expedite | speed up |
 | expenditure | spending |
 | expire | run out |
- 
+
 ---
- 
+
 ## F
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | fabricate | make |
@@ -164,21 +165,21 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | frequently | often |
 | furnish | give, provide |
 | furthermore | also, and |
- 
+
 ---
- 
+
 ## G-H
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | generate | produce, create |
 | henceforth | from now on |
 | hitherto | until now |
- 
+
 ---
- 
+
 ## I
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | if and when | if, when |
@@ -207,11 +208,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | instances | cases |
 | irrespective of | despite |
 | issue | give, send |
- 
+
 ---
- 
+
 ## L-M
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | (a) large number of | many |
@@ -223,11 +224,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | manner | way |
 | modification | change |
 | moreover | also, and |
- 
+
 ---
- 
+
 ## N-O
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | negligible | small |
@@ -249,11 +250,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | otherwise | or |
 | outstanding | unpaid |
 | owing to | because |
- 
+
 ---
- 
+
 ## P
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | partially | partly |
@@ -282,11 +283,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | proximity | nearness |
 | purchase | buy |
 | pursuant to | under |
- 
+
 ---
- 
+
 ## R
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | reconsider | think again |
@@ -306,11 +307,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | residence | home |
 | retain | keep |
 | revised | changed, new |
- 
+
 ---
- 
+
 ## S
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | scrutinise | examine, check |
@@ -327,11 +328,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | sufficient | enough |
 | supplement | add to |
 | supplementary | extra |
- 
+
 ---
- 
+
 ## T-U
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | terminate | end, stop |
@@ -345,11 +346,11 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | undertake | agree, do |
 | uniform | same |
 | utilise | use |
- 
+
 ---
- 
+
 ## V-Z
- 
+
 | Complex | Plain Alternative |
 |---------|-------------------|
 | variation | change |
@@ -363,13 +364,13 @@ Source: Plain English Campaign A-Z of Alternative Words (2001), Australian Gover
 | with regard to | about |
 | with respect to | about |
 | zone | area |
- 
+
 ---
- 
+
 ## Phrases to Remove Entirely
- 
+
 These phrases often add nothing. Delete them:
- 
+
 - a total of
 - absolutely
 - actually
@@ -391,4 +392,3 @@ These phrases often add nothing. Delete them:
 - the fact of the matter is
 - to all intents and purposes
 - very
- 
